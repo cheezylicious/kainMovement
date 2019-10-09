@@ -148,6 +148,7 @@ export class Footer extends Component {
             </div>
           </div>
           <p className="rights">© 2019 Kain Movement</p>
+          <p>Bonjour</p>
         </Container>
       </Styles>
     );
